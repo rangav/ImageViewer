@@ -12,7 +12,7 @@ namespace ImageViewer
 		/// The double tap interval. Measured in ms
 		/// </summary>
 
-		const float defaultZoom = 1.1f;
+		const float defaultZoom = 2f;
 		const float minZoom = 0.1f;
 		const float maxZoom = 3f;
 		float sizeToFitZoom = 1f;

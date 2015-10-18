@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="ImageViewer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageViewerViewController.cs">
+    <Files>
+      <File FileName="Controls/UIImageViewClickable.cs" Line="1" Column="1" />
+      <File FileName="Controls/UIViewFullscreen.cs" Line="1" Column="1" />
+      <File FileName="Controls/UIScrollViewImage.cs" Line="16" Column="30" />
+      <File FileName="ImageViewerViewController.cs" Line="83" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
