@@ -1,4 +1,4 @@
-# ImageBrowser
+# ImageViewer
 
 Image Viewer functionaliy in Xamarin.IOS
 
