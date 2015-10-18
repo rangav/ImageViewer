@@ -1,4 +1,4 @@
-/Users/ranga/Downloads/imageviewer/imageviewer/obj/iPhone/Debug/mtouch-cache/Link/ImageViewer.exe
-/Users/ranga/Downloads/imageviewer/imageviewer/obj/iPhone/Debug/mtouch-cache/Link/System.dll
-/Users/ranga/Downloads/imageviewer/imageviewer/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
-/Users/ranga/Downloads/imageviewer/imageviewer/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/ranga/Documents/GitHub/ImageBrowser/ImageBrowser/obj/iPhone/Debug/mtouch-cache/Link/ImageViewer.exe
+/Users/ranga/Documents/GitHub/ImageBrowser/ImageBrowser/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/ranga/Documents/GitHub/ImageBrowser/ImageBrowser/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/ranga/Documents/GitHub/ImageBrowser/ImageBrowser/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
