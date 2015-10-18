@@ -6,7 +6,7 @@ Image Viewer functionaliy in Xamarin.IOS
 Added Close button to close the image view instead of single tap.
 
 
----
+--
 This is fork of https://bitbucket.org/MaximKorobov/imageviewer.git
 
 Other References:
