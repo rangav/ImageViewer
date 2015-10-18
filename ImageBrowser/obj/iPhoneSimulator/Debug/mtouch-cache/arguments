@@ -1,0 +1,27 @@
+# Version: 9.0.1.29 (xcode7-c5: 1d27ac2)
+# [first argument, ignore] # /Users/ranga/Downloads/imageviewer/imageviewer/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.0.1.29/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/ranga/Downloads/imageviewer/imageviewer/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--executable \
+	ImageViewer \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/ranga/Downloads/imageviewer/imageviewer/bin/iPhoneSimulator/Debug/ImageViewer.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	9.0 \
+	--abi=i386 \
+	/Users/ranga/Downloads/imageviewer/imageviewer/bin/iPhoneSimulator/Debug/ImageViewer.exe \

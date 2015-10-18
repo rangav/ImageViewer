@@ -1,0 +1,26 @@
+# Version: 9.0.1.29 (xcode7-c5: 1d27ac2)
+# [first argument, ignore] # /Users/ranga/Downloads/imageviewer/imageviewer/bin/iPhone/Release/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.0.1.29/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/ranga/Downloads/imageviewer/imageviewer/obj/iPhone/Release/mtouch-cache \
+	--executable \
+	ImageViewer \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/ranga/Downloads/imageviewer/imageviewer/bin/iPhone/Release/ImageViewer.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-linksdkonly \
+	-sdk \
+	9.0 \
+	--abi=armv7 \
+	/Users/ranga/Downloads/imageviewer/imageviewer/bin/iPhone/Release/ImageViewer.exe \
